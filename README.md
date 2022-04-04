@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wesucceed
+- 👋 Hi, I’m @weSucceed
 - 👀 I’m interested in Data analysis, Data science, Biological sciences, Chemistry, and Science vs Bible research.
 - 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate on Data analysis, and Data science activities.
